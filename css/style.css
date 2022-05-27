@@ -3,55 +3,55 @@
 ************************************** */
 @font-face {
     font-family: 'Acme';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/Acme-Regular.ttf');
+    src: url('/fonts-GI/Acme-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Aldrich';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/Aldrich-Regular.ttf');
+    src: url('/fonts-GI/Aldrich-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Amita';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/Amita-Regular.ttf');
+    src: url('/fonts-GI/Amita-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Amita-Bold';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/Amita-Bold.ttf');
+    src: url('/fonts-GI/Amita-Bold.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'AzeretMono';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/AzeretMono-VariableFont_wght.ttf');
+    src: url('/fonts-GI/AzeretMono-VariableFont_wght.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'AzeretMono-Italic';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/AzeretMono-Italic-VariableFont_wght.ttf');
+    src: url('/fonts-GI/AzeretMono-Italic-VariableFont_wght.ttf');
     font-weight: normal;
     font-style: italic;
 }
 @font-face {
     font-family: 'BeauRivage';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/BeauRivage-Regular.ttf');
+    src: url('/fonts-GI/BeauRivage-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'BethEllen';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/BethEllen-Regular.ttf');
+    src: url('/fonts-GI/BethEllen-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'BubblerOne-Regular';
-    src: url('/ZTM\ final\ Blog\ UI/fonts-GI/BubblerOne-Regular.ttf');
+    src: url('/fonts-GI/BubblerOne-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -115,7 +115,7 @@ h2 {
 
 .picture__background {
     position: fixed;
-    background-image: url('/ZTM\ final\ Blog\ UI/images/NIG.jpg');
+    background-image: url('/images/NIG.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
