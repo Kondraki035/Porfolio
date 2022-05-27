@@ -115,7 +115,7 @@ h2 {
 
 .picture__background {
     position: fixed;
-    background-image: url(images/NIG.jpg);
+    background-image: url('/Porfolio/images/NIG.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
