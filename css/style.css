@@ -1,60 +1,60 @@
 /* ************************************* 
     import Fonts
 ************************************** */
-/* @font-face {
+@font-face {
     font-family: 'Acme';
-    src: url('/fonts-GI/Acme-Regular.ttf');
+    src: url('/Porfolio/fonts-GI/Acme-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Aldrich';
-    src: url('/fonts-GI/Aldrich-Regular.ttf');
+    src: url('/Porfolio/fonts-GI/Aldrich-Regular.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 @font-face {
     font-family: 'Amita';
-    src: url('/fonts-GI/Amita-Regular.ttf');
+    src: url('/Porfolio/fonts-GI/Amita-Regular.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 @font-face {
     font-family: 'Amita-Bold';
-    src: url('/fonts-GI/Amita-Bold.ttf');
+    src: url('/Porfolio/fonts-GI/Amita-Bold.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 @font-face {
     font-family: 'AzeretMono';
-    src: url('/fonts-GI/AzeretMono-VariableFont_wght.ttf');
+    src: url('/Porfolio/fonts-GI/AzeretMono-VariableFont_wght.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 @font-face {
     font-family: 'AzeretMono-Italic';
-    src: url('/fonts-GI/AzeretMono-Italic-VariableFont_wght.ttf');
+    src: url('/Porfolio/fonts-GI/AzeretMono-Italic-VariableFont_wght.ttf');
     font-weight: normal;
     font-style: italic;
-}
+};
 @font-face {
     font-family: 'BeauRivage';
-    src: url('/fonts-GI/BeauRivage-Regular.ttf');
+    src: url('/Porfolio/fonts-GI/BeauRivage-Regular.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 @font-face {
     font-family: 'BethEllen';
-    src: url('/fonts-GI/BethEllen-Regular.ttf');
+    src: url('/Porfolio/fonts-GI/BethEllen-Regular.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 @font-face {
     font-family: 'BubblerOne-Regular';
-    src: url('/fonts-GI/BubblerOne-Regular.ttf');
+    src: url('/Porfolio/fonts-GI/BubblerOne-Regular.ttf');
     font-weight: normal;
     font-style: normal;
-}
+};
 .Acme {
     font-family: 'Acme';
 }
@@ -81,7 +81,7 @@
 }
 .BubblerOne {
     font-family: 'BubblerOne-Regular';
-} */
+}
 /* ************************************* 
     import Fonts
 ************************************** */
