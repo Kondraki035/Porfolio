@@ -1,7 +1,7 @@
 /* ************************************* 
     import Fonts
 ************************************** */
-@font-face {
+/* @font-face {
     font-family: 'Acme';
     src: url('/fonts-GI/Acme-Regular.ttf');
     font-weight: normal;
@@ -81,7 +81,7 @@
 }
 .BubblerOne {
     font-family: 'BubblerOne-Regular';
-}
+} */
 /* ************************************* 
     import Fonts
 ************************************** */
@@ -115,7 +115,7 @@ h2 {
 
 .picture__background {
     position: fixed;
-    background-image: url('images/NIG.jpg');
+    background-image: url(images/NIG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50%;
